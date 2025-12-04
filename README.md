@@ -9,11 +9,13 @@
 
 - 🔭 I’m currently working on: CareerOPath (AI Career Guide), and Smart Timetable Generator [CareerOPath](carrer-o-path.vercel.app)
 
-- 🌱 I’m currently learning **(Node.js, Express, Supabase, Docker) and deeper AI/ML**
-
 - 🔭 I’m currently working on: Personal Mentor [VisionAI](Coming Soon...)
 
-- 🔭 I’m currently working on: Smart Timetable Generator [Smarty](Coming Soon...)
+-  🔭 I’m currently working on: Smart Timetable Generator [Smarty](Coming Soon...)
+
+- 🌱 I’m currently learning **(Node.js, Express, Supabase, Docker) and deeper AI/ML**
+
+- 👯 I’m looking to collaborate on **AI-driven products, automation tools, and scalable full-stack projects**
 
 - 👨‍💻 All of my projects are available at [Coming Soon...](Coming Soon...)
 
@@ -24,8 +26,6 @@
 - 📫 How to reach me **vinay.g.bardur@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vinay-bardur/](https://www.linkedin.com/in/vinay-bardur/)
-
-- 👯 I’m looking to collaborate on **AI-driven products, automation tools, and scalable full-stack projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
