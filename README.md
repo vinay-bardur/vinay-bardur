@@ -1,5 +1,5 @@
 #  About Me :
-Working on: CareerOPath 👨🏻‍🎓 • VisionAI 🔭 • Smarty 📃<br> Learning: Production-grade infra — Node.js, Supabase/Postgres, Docker, auth flows, MLOps<br> Looking to collaborate on: AI productization, automation, and clean backend systems<br> Email: vinay.g.bardur@gmail.com<br> LinkedIn: https://www.linkedin.com/in/vinay-bardur
+Working on: CareerOPath • VisionAI • Smarty <br> Learning: Production-grade infra — Node.js, Supabase/Postgres, Docker, auth flows, MLOps<br> Looking to collaborate on: AI productization, automation, and clean backend systems<br> Email: vinay.g.bardur@gmail.com<br> LinkedIn: https://www.linkedin.com/in/vinay-bardur
 
 
 ##  Socials :
@@ -17,4 +17,3 @@ Working on: CareerOPath 👨🏻‍🎓 • VisionAI 🔭 • Smarty 📃<br> Le
 [![](https://visitcount.itsvg.in/api?id=vinay-bardur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
